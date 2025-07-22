@@ -1,1 +1,1 @@
-Jeu de données facilement accessible via la librairie Pandas depuis google colab ou tout autre environnement de travail. 
+Data set easily accessible via the Pandas library from Google colab or any other working environment.
